@@ -4,10 +4,11 @@
 	align-items:center;
 }
 #btn{
-	padding:30px;
+	padding:10px;
 	font-size:10px;
 	background-color:red;
 	color:white;
 	border-radius:10px;
+	
 }
 
